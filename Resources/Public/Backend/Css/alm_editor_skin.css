@@ -1,0 +1,26 @@
+/* Alm Editor */
+.btn_alm_editor,
+.table .btn_alm_editor
+{
+	background-color: #bbe89c;
+}
+.btn_alm_editor:hover,
+.btn_alm_editor:focus,
+.table .btn_alm_editor:hover,
+.table .btn_alm_editor:focus
+{
+	background-color: #92ec56;
+}
+
+.btn_alm_editor_default,
+.table .btn_alm_editor_default
+{
+	background-color: #9cc3e8;
+}
+.btn_alm_editor_default:hover,
+.btn_alm_editor_default:focus,
+.table .btn_alm_editor_default:hover,
+.table .btn_alm_editor_default:focus
+{
+	background-color: #56c1ec;
+}

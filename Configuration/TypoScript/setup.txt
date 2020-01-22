@@ -1,0 +1,16 @@
+plugin.tx_almeditor {
+	settings {
+		fileTypes = htm,html
+		editIrre = 1
+		editIrreRte = 1
+		showIrreInfo = 1
+	}
+}
+
+module.tx_almeditor {
+	view {
+		templateRootPaths.0 = EXT:alm_editor/Resources/Private/Templates/
+		partialRootPaths.0 = EXT:alm_editor/Resources/Private/Partials/
+		layoutRootPaths.0 = EXT:alm_editor/Resources/Private/Layouts/
+	}
+}
