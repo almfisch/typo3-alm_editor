@@ -15,5 +15,16 @@ plugin.tx_almeditor {
 	}
 }
 ```
+
+## Screenshots
+
+### Fileadmin
+![Fileadmin](Documentation/Images/img_01.png)
+
+### IRRE
+![IRRE](Documentation/Images/img_02.png)
+
 ## License
+![License GPL](https://img.shields.io/badge/License-GPL-blue?style=flat-square)
+
 Read the LICENSE.md
